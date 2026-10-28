@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+.DS_Store
+# generated artifacts (rebuilt via `make train`)
+artifacts/*
+!artifacts/.gitkeep
+data/*.csv
+!data/.gitkeep
