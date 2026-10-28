@@ -1,5 +1,9 @@
 # 📉 Churn Prediction & Explainability Dashboard
 
+<img width="1913" height="1061" alt="churn_predict_dashboard" src="https://github.com/user-attachments/assets/2845a0f6-f60c-4fba-b842-64ade101ddce" />
+<img width="1896" height="1069" alt="insights" src="https://github.com/user-attachments/assets/3070eb98-4f55-4d30-811f-d1d0693b2860" />
+
+
 End-to-end machine-learning project: data processing → feature engineering → **XGBoost** model →
 **SHAP** explainability → real-time **FastAPI + Streamlit** dashboard, fully **Dockerized**.
 
